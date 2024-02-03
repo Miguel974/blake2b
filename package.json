@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilbayes/blake2b.git"
+    "url": "git+https://github.com/Miguel974/blake2b.git"
   },
   "keywords": [],
   "author": "Emil Bay <github@tixz.dk>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilbayes/blake2b/issues"
+    "url": "https://github.com/Miguel974/blake2b/issues"
   },
-  "homepage": "https://github.com/emilbayes/blake2b#readme"
+  "homepage": "https://github.com/Miguel974/blake2b#readme"
 }
